@@ -1,0 +1,38 @@
+Hello, you have just picked up a game that was created within 24 hours!. 
+
+In order to play this game you need to install Python, a programming language, and the pygame and arcade libraries. 
+
+How to install python:
+
+1. Go to python.org
+2. Click on downloads
+3. Click all releases
+4. Click on 3.7.3
+5. Click on the installer, and make sure that you check the box that says install python to PATH.
+
+How to install pygame:
+
+1. open command prompt
+2. type in the following code: "py -m pip install -U pygame --user" or just "pip install pygame" you can look it up online. 
+3. once you are done with installing pygame, then type in the code: pip install arcade 
+
+once then click on the file osmTS.py
+and you are ready to play, just hit the "R" key on your keyboard to begin playing. 
+
+GAME SUMMARY: 
+
+You are the blue menace, a figmentation of all of the world's water, he is trying to escape a post apocalyptic strange land. 
+You can control the blue menace with the arrow keys, use left and right to move, and up to jump. 
+The goal of this game is to beat every level as fast as possible, time your self on each stage, and compete with friends for faster times.
+WHENEVER YOU DIE, YOU HAVE TO CLOSE OUT THE GAME AND DOUBLE CLICK THE TITLE SCREEN (osmTS.py)
+You can also pick up from where you left off by clicking on the level's file if you can find it, but that would be cheating. 
+Have Fun :)
+
+CREDITS:
+Kashyap Bendapudi (Indian Jesus) - Team Leader, Programmer, Composer, and Artist
+Giulio Poncia (Concerned Bear) - Programmer and Artist, and SFX
+Elia Poncia (M.A.G.E) - Level Designer and Programmer 
+Rishabh Bendapudi - Playtester
+
+
+
